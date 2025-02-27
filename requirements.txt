@@ -1,2 +1,3 @@
 crewai
 creawai_tools
+langchain-ibm
